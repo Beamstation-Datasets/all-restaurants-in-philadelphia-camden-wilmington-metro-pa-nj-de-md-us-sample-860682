@@ -9,9 +9,9 @@
 | Dataset ID | `860682` |
 | Location | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |
 | Category | Restaurants |
-| Full dataset size | 13,803 records |
-| Free sample size | 1,000 records (7.24%) |
-| Last export | 2026-04-09T20:25:04.302445+00:00 |
+| Full dataset size | 13,661 records |
+| Free sample size | 1,000 records (7.32%) |
+| Last export | 2026-04-17T00:05:21.787474+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-860682/releases/download/sample-latest/beamstation_860682_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
