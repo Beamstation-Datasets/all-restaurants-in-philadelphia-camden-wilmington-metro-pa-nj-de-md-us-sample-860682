@@ -1,12 +1,12 @@
 {
-  "export_job_id": "14c253b1-66db-43f1-9672-c06d50bbc5cb",
+  "export_job_id": "cb0b87f0-12f4-4cf7-87bb-562070574e35",
   "id_short": 860682,
-  "published_at": "2026-04-19T19:41:13Z",
+  "published_at": "2026-04-23T19:50:10Z",
   "repo_name": "all-restaurants-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-860682",
   "sample_asset_name": "beamstation_860682_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/860682/beamstation_860682_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "dccbe75a209b5b963c8d54561f3776f839ed051fd45e2d495b43a1f87eff6c22",
-  "sample_size_bytes": 3334291,
-  "total_records": 13661
+  "sample_sha256": "2cc763a04758d4e52a6a33b79ceb636a4f6eb654ac36557ae83d59e123ae1d90",
+  "sample_size_bytes": 3378111,
+  "total_records": 12262
 }
