@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Metro-level restaurant census for the Philadelphia-Camden-Wilmington area spanning Pennsylvania, New Jersey, Delaware, and Maryland. Filtered by the Restaurants category group, covers the historic Mid-Atlantic dining market with verified business profiles, review analytics, and competitive data. Refreshed weekly.",
   "config_name": "All Restaurants in Philadelphia-Camden-Wilmington (Metro), PA-NJ-DE-MD, US",
-  "export_job_id": "cb0b87f0-12f4-4cf7-87bb-562070574e35",
+  "export_job_id": "6b8a73ee-96b1-4c9b-8b9c-359e1b1fd747",
   "github_org": "Beamstation-Datasets",
   "id_short": 860682,
   "location_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-860682",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/860682/beamstation_860682_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
-  "sample_pct": 8.16,
+  "sample_pct": 7.13,
   "sample_records": 1000,
-  "sample_sha256": "2cc763a04758d4e52a6a33b79ceb636a4f6eb654ac36557ae83d59e123ae1d90",
-  "sample_size_bytes": 3378111,
-  "total_records": 12262,
-  "updated_at": "2026-04-23T18:19:43.901987+00:00"
+  "sample_sha256": "240f7d76b4e4cefeb8540f4aaf99e2c89d94c99c39de0307a872de2850d889d0",
+  "sample_size_bytes": 3271490,
+  "total_records": 14028,
+  "updated_at": "2026-05-01T08:23:44.818592+00:00"
 }
